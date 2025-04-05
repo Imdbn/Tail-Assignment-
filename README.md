@@ -12,4 +12,4 @@ This repository contains the solution to the TAP, which includes:
 
 ## Further Reading
 For a detailed explanation of the mathematical model, the solution approach, and additional results, check out the full project report available in this repository:
-[Project Report](./project_report.pdf)
+[Project Report](Project_report.pdf.pdf)
